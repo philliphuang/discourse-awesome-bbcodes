@@ -14,10 +14,11 @@ awesome_bbcodes_plugin:
   awesome_bbcodes_typefaces_list:
     client: true
     type: list
-    default: 'alpha|corporate|humanism|rainbow|smartass'
+    default: 'alpha|corporate|humanism|rainbow|smartass|mspa'
     choices:
      - alpha
      - corporate
      - humanism
      - rainbow
      - smartass
+     - mspa
