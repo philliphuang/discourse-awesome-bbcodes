@@ -14,7 +14,7 @@ awesome_bbcodes_plugin:
   awesome_bbcodes_typefaces_list:
     client: true
     type: list
-    default: 'alpha|corporate|humanism|rainbow|smartass|mspa'
+    default: 'mspa|sbahj'
     choices:
      - alpha
      - corporate
@@ -22,3 +22,4 @@ awesome_bbcodes_plugin:
      - rainbow
      - smartass
      - mspa
+     - sbahj

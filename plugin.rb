@@ -1,8 +1,8 @@
-# name: discourse-awesome-bbcodes
-# about: BBCode tags with multiline support.
-# version: 0.4.0
-# authors: David Montoya, Charles-Pierre Astolfi
-# url: https://github.com/rux-pizza/discourse-awesome-bbcodes
+# name: discourse-awesome-bbcodes-MSPA-Edition
+# about: BBCode tags with multiline support. MSPA Edit.
+# version: 0.4.0.MSPA
+# authors: David Montoya, Charles-Pierre Astolfi, Phillip Huang
+# url: https://github.com/philliphuang/discourse-awesome-bbcodes
 
 register_asset 'javascripts/awesome-bbcodes.js', :server_side
 

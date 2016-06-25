@@ -1,4 +1,6 @@
-#discourse-awesome-bbcodes
+#discourse-awesome-bbcodes-MSPA-Edition
+
+## MSPA Edition: Added MSPA font for MSPA Forums
 
 A Discourse Plugin to support nestable BBCode tags spawning across multiple paragraphs in your posts.
 By default, support is provided for the following tags:
